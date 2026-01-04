@@ -53,6 +53,7 @@ Customer-Churn-Prediction/
 │
 ├── Customer_Churn_Prediction.ipynb   # Jupyter Notebook with EDA, model training, and comparison
 ├── README.md                         # Project README
+├──TASK-4 OUTPUTS.pdf                 # Output file
 ├── requirements.txt                  # Python dependencies
 └── pyvenv.cfg                        # Virtual environment configuration
 ```
